@@ -33,7 +33,7 @@
 
                 <p class="card-text">{{ $posts[0]->readmore }}</p>
 
-                <a href="/posts/{{ $posts[0]->slug }}"class="text-decoration-none btn btn-primary">Read more</a>                    
+                <a href="/posts/{{ $posts[0]->slug }}"class="text-decoration-none btn btn-primary">Read</a>                    
 
             </div>
         </div>
